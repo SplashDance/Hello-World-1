@@ -88,6 +88,7 @@ Hannah
 Harper
 Henry
 Hudson
+Huey
 Hunter
 Ian
 Isaac
@@ -121,6 +122,7 @@ Kayla
 Kaylee
 Keira
 Kennedy
+King Koopa
 Kylie
 Landon
 Lauren
@@ -184,6 +186,7 @@ Skyler
 Sophia
 Sophie
 Stella
+Steve-o
 Sydney
 Taylor
 Thomas
@@ -195,5 +198,6 @@ Vivian
 William
 Wyatt
 Xavier
+Yoshi
 Zachary
 Zoe
