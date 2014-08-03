@@ -22,4 +22,5 @@ def main():
     root.mainloop()
 
 #comments
-if __name__ == '__main__': main()
+if __name__ == '__main__':
+    main()
